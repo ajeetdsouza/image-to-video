@@ -21,5 +21,6 @@ This example shows the program in action with a ROS wrapper that takes a picture
 - [NumPy](http://www.numpy.org/)
 
 ## Usage
-Pretty straightforward. Pass the file name as a parameter.
-`python augment.py filename.jpg`
+Pretty straightforward. Pass the file name as a parameter: `python augment.py filename.jpg`
+
+To exit, hit `q`.
